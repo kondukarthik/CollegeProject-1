@@ -20,6 +20,6 @@ VehicleRentalSystem/
 │   ├── Bike.java           # Bike class, extends Vehicle
 │   ├── Customer.java       # Customer class
 │   ├── Rental.java         # Rental class that connects a customer to a vehicle
-│   └── Main.java           # Main class with program entry point
+│   └── VehicleManagementSystem.java           # Main class with program entry point
 │
 └── README.md               # Project documentation
